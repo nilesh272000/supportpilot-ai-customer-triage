@@ -1,0 +1,6 @@
+[
+ {"ticket_id":"SUP-1001","message":"I was charged twice for the same subscription and need a refund."},
+ {"ticket_id":"SUP-1002","message":"The dashboard crashes with a timeout whenever I try to export a report."},
+ {"ticket_id":"SUP-1003","message":"My package is late and the tracking page has not updated for three days."},
+ {"ticket_id":"SUP-1004","message":"I think someone hacked my account and made an unauthorized payment."}
+]
