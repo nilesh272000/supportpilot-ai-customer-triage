@@ -1,0 +1,1 @@
+async function triage(){const message=document.getElementById('message').value;const r=await fetch('/api/triage',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message})});document.getElementById('result').textContent=JSON.stringify(await r.json(),null,2)}
